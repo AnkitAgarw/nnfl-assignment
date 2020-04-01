@@ -1,2 +1,6 @@
-# nnfl-assignment
-This repo contains my assignment submission for the Neural Networks course of my college
+
+
+# NNFL Assignments
+
+This repository contains my neural networks and fuzzy logic course assignments and projects.
+
