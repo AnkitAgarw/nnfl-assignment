@@ -4,5 +4,5 @@
 * Model I used:- I used same models for all three tasks with the output layer changed
 * This model did not perform the task well.
 * ![](model.png)
-* ![](Capture.png)
+* ![](Capture.PNG)
 * 
