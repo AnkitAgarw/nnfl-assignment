@@ -1,4 +1,4 @@
-# NNFL Assignment 2
+NNFL Assignment 2
 
 
 
@@ -10,9 +10,10 @@
 
   ![](assignment_2.png)
 
-* ![](assignment_2_summary.png)
+  ![](assignment_2_summary.png)
 
   
+
 
 
 
